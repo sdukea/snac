@@ -1,16 +1,10 @@
-<div align="center">
+<div align="left">
 
 # Snac.
 
 *A Streamlit-based food ordering application for institutional events.*
 
 *Python · Streamlit · QRCode · Pillow*
-
----
-
-> **⚠️ Archived Project**
->
-> This project has been discontinued and is preserved solely for portfolio and archival purposes. It will not receive future updates or maintenance.
 
 </div>
 
