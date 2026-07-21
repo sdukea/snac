@@ -1,6 +1,6 @@
 <div align="left">
 
-# Snac.
+# Snac
 
 *A Streamlit-based food ordering application for institutional events.*
 
@@ -12,7 +12,7 @@
 
 ## Overview
 
-Snac. was developed as an institutional food ordering platform for school events such as **Fests**, **A-Days**, and **F-Days**.
+Snac was developed as an institutional food ordering platform for school events such as **Fests**, **A-Days**, and **F-Days**.
 
 The application demonstrates a complete ordering workflow—from event selection to QR-based order verification—using **Streamlit** as the primary application framework.
 
@@ -157,7 +157,7 @@ The application will automatically launch in your default browser.
 ## Project Status
 
 >
-> Snac. was one of my earlier projects and is no longer maintained.
+> Snac was one of my earlier projects and is no longer maintained.
 >
 > It remains available as a demonstration of building an end-to-end institutional food ordering workflow with Streamlit, including QR-based order verification.
 
